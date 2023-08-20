@@ -1,5 +1,0 @@
-{{#user}}
-Name: Ujjwal Aggarwal
-Skills: HTML, CSS, JS, React.js
-Email: ujjwal.dcrust@gmail.com
-{{/user}}
